@@ -1,2 +1,2 @@
 # Brain-Tumor-Detection-and-Classification
-This repository contains
+This repository contains code for a brain tumor detection and classification project.
